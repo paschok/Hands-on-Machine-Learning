@@ -8,7 +8,7 @@
 4. Decision Trees
 5. Ensemble Learning and Random Forests
 6. Dimensionality Reduction
-7. Unsupervised Learning Techniques
+7. Unsupervised Learning Techniques - Clustering (K-Means, DBSCAN)
 8. Neural Nets with Keras
 9. Deep Neural Networks 
 10. Tesorflow
